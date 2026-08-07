@@ -5,3 +5,4 @@ today wednesday
 05/08/2026
 apple
 mango
+Today is Friday
