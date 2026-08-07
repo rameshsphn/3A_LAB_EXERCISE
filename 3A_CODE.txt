@@ -6,3 +6,4 @@ today wednesday
 apple
 mango
 Today is Friday
+Tomorrow is Saturday
